@@ -336,7 +336,7 @@ body.dark-theme {
 }
 
 .home__perfil img{
-  width: 150px;
+  width: 170px;
 }
 
 .home__shape-wawes,
@@ -583,6 +583,7 @@ body.dark-theme {
   display: block;
   font-size: 2rem;
   color: var(--title-color);
+  margin-top: -2rem;
   margin-bottom: .75rem;
   transition: transform .8s;
 }
@@ -590,7 +591,21 @@ body.dark-theme {
 .articles__title{
   font-size: var(--h2-font-size);
   font-weight: var(--font-semi-bold);
-  margin-bottom: 1.5rem;
+  margin-top: -0.3rem;
+  margin-bottom: 0.8rem;
+}
+
+.articles__description{
+  margin-bottom: 0.7rem;
+}
+
+.articles__button{
+  display: inline-flex;
+  align-items: center;
+  column-gap: .5rem;
+  color: var(--title-color);
+  font-size: var(--small-font-size);
+  margin-top: 0.25rem;
 }
 
 .articles__border{
@@ -614,6 +629,16 @@ body.dark-theme {
 .articles__card:hover .articles__border{
   opacity: 1; 
 }
+
+.articles__button{
+  font-size: 1rem;
+  transition: transform .3s;
+}
+
+.articles__button:hover{
+  transform: translateY(.25rem)
+}
+
 
 /*=============== PROJECTS ===============*/
 .projects__container{
@@ -1373,6 +1398,8 @@ body.dark-theme {
     height: 345px;
     border-radius: 7.6rem;
     padding: 3.5rem 1.5rem;
+    margin-top: 2rem;
+
   }
   .articles__card i{
     font-size: 2.5rem;
@@ -1423,6 +1450,7 @@ body.dark-theme {
   .achievements__description{
     font-size: var(--h2-font-size);
     margin-bottom: 2rem;
+    margin-top: 2rem;
   }
   .achievements__img{
     width: 200px;
@@ -1449,6 +1477,7 @@ body.dark-theme {
   .testimonials__description{
     font-size: var(--h2-font-size);
     margin-bottom: 2rem;
+    margin-top: 2rem;
   }
   .testimonials__img{
     width: 200px;
