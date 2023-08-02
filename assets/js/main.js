@@ -215,6 +215,8 @@ sr.reveal(`.home__data, .projects__container, .achievements__container, .footer_
 sr.reveal(`.home__info div`, {delay: 600, origin: 'bottom', interval: '100'})
 sr.reveal(`.skills__content:nth-child(1), .contact__content:nth-child(1)`, {origin: 'left'})
 sr.reveal(`.skills__content:nth-child(2), .contact__content:nth-child(2)`, {origin: 'right'})
+sr.reveal(`.skills__content:nth-child(3), .contact__content:nth-child(3)`, {origin: 'left'})
+sr.reveal(`.skills__content:nth-child(4), .contact__content:nth-child(4)`, {origin: 'right'})
 sr.reveal(`.qualification__content, .articles__card`, {interval: 100})
 
 /*=============== TYPOGRAPHY ANIMATION ===============*/
