@@ -1,0 +1,288 @@
+========== HEADER ==========
+.nav__logo
+Chris
+
+.nav__link
+Home - Skills - Qualification - Services - Projects - Contact
+
+
+========== HOME ==========
+.home__title
+Hi, I’m Shubham <br>
+Mechanical Engineer <br>
+Based In Mumbai <br>
+
+.home__social
+https://www.linkedin.com/in/shubham-mehta1/
+https://github.com/Justme1705/
+https://grabcad.com/shubham.mehta-10/
+
+.home__info-title
+BIOGRAPHY (About Me)
+CONTACT
+SERVICES
+YEARS OF EXPERIENCE
+COMPLETED PROJECTS
+COMPANIES WORKED
+
+.home__info-description .home__info-number
+Hi, I'm Shubham, Mechanical Engineer.
+Passionate about Drone and Robotic
+systems. Based in Mumbai.
+
+Mira Road, Mumbai <br>
+i.mehta.shubham@gmail.com <br>
++91 8291039424 <br>
+
+Website Design <br>
+UI/UX Design <br>
+Animation <br>
+
+08+
+
+24+
+
+07+
+
+
+========== SKILLS ==========
+.section__title
+Skills
+
+.section__subtitle
+My favorite skills
+
+.skills__title
+Aerial Robotics 
+CAD Designer
+Programming
+
+.skills__name .skills__subtitle
+
+BetaFlight Configurator
+Advanced
+
+MissionPlanner
+Intermediate
+
+Quality Ground Control Configurator
+Basic
+
+FPV Quads Build 
+Advanced
+
+----------------------------------
+ROS
+Basic
+
+Python
+Intermediate
+
+C Programming
+Intermediate
+
+--------------------------------------
+Solidworks
+Advanced
+
+Fusion 360
+Intermediate
+
+AutoCAD
+Intermediate
+
+Ansys
+Intermediate
+----------------------------------------
+Photoshop
+Intermediate
+
+
+========== QUALIFICATION ==========
+.section__title
+Qualification
+
+.section__subtitle
+Experience & education
+
+.qualification__title
+Education
+Work
+
+.qualification__name .qualification__country .qualification__year
+Bachelors of Technology In Mechanical Engineering
+Mumbai - Dwarkadas J Sanghvi College of Engineering
+2019 - 2023
+
+HSC
+St. Rocks junior College of Science - Mumbai
+2018 - 2019
+
+SSC
+St.Xavier's High School - Mumbai
+2016 - 2017
+
+
+Fontend Developer
+Adobe - Spain
+2014 - 2019
+
+Software Engineer
+Microsoft - Perú
+2018 - 2020
+
+Graphic Designer
+Figma - Perú
+2020 - Present
+
+
+========== SERVICES ==========
+.section__title
+Services
+
+.section__subtitle
+What i offer as a Free-Lancer
+
+.services__title .services__description
+UI/UX <br>
+Designer
+
+Service that provides the best quality and at 
+the request of the client, with professional 
+work and customer support.
+
+Website <br>
+Design
+
+Digital <br>
+Animator
+
+
+========== PROJECTS ==========
+.section__title
+Projects
+
+.section__subtitle
+Most recent work
+
+
+.projects__subtitle .projects__title .projects__button
+Web
+Modern Website
+View demo
+
+Web
+ECommerce Store
+
+Design
+Application Design
+
+Animation
+Animation Prototypes
+
+========== TESTIMONIAL ==========
+.section__title
+Testimonial
+
+.section__subtitle
+My client saying
+
+.testimonial__description .testimonial__name .testimonial__subtitle
+“Working with Chris is to give a good 
+impression, I carry out my project at a good 
+cost, with excellent quality and attention. 
+Great service and recommended.”
+
+Klay Harris
+Client
+
+Mary Lens
+Client
+
+Anna Chel
+Client
+
+
+========== CONTACT ==========
+.section__title
+Contact Me
+
+.section__subtitle
+Get in touch
+
+.contact__title
+Talk to me
+Write me your project
+
+.contact__data-title .contact__data-info .contact__button
+Email
+i.mehta.shubham@gmail.com
+
+Whatsapp
++51 9876543210
+Write me
+
+<!-- Insert a real number plus country code -->
+https://api.whatsapp.com/send?phone=+918291039424&text=Hello, Let's Catch up!
+
+Messenger
+@chris.fb123
+Write me
+
+<!-- Insert your brand name or profile -->
+https://m.me/bedimcode
+
+.contact__form-tag | placeholder
+Names
+Write your names
+
+Mail
+Write your email
+
+Project
+Write your project
+
+.contact__button
+Submit
+
+========== EMAIL JS CONTACT ==========
+
+// Check if the field has a value
+	// Add and remove color
+
+	// Show message	
+		Write all the input fields 
+
+// serviceID - templateID - #form - publicKey
+	// Show message and add color
+		Message sent 
+	
+	// Remove message after five seconds
+
+	// Send Error
+		OOPS! SOMETHING HAS FAILED...
+
+// To clear the input field
+========== FOOTER ==========
+.footer__title
+Shubham
+
+<p>
+Mechanical Engineer
+
+.footer__link
+Home
+Skills
+Projects
+
+.footer__social-link
+https://www.linkedin.com/in/shubham-mehta1/
+https://github.com/Justme1705/
+https://grabcad.com/shubham.mehta-10/
+
+.footer__copy
+&#169; Copyright Shubham Mehta. All rights reserved
+
+
+
+
