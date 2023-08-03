@@ -452,7 +452,7 @@ body.dark-theme {
 }
 
 .skills__info{
-  grid-template-columns: repeat(4, .5fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 2.5rem 2rem;
 }
 
@@ -1126,7 +1126,7 @@ body.dark-theme {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 480px){
+@media screen and (max-width: 350px){
   .container{
     margin-inline: 1rem;
   }
