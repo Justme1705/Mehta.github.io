@@ -33,9 +33,9 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 let swiperProjects = new Swiper(".projects__container", {
     loop: true,
     spaceBetween: 24,
-
+    
     navigation: {
-      nextEl: ".swiper-button-next-auto",
+      nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
     },
     pagination: {
@@ -57,7 +57,7 @@ let swiperAchievements = new Swiper(".achievements__container", {
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
-        delay: 2500,
+        delay: 2800,
         disableOnInteraction: false,
     },
     navigation: {
@@ -77,7 +77,7 @@ let swiperTestimonials = new Swiper(".testimonials__container", {
     spaceBetween: 30,
     centeredSlides: true,
     autoplay: {
-        delay: 2500,
+        delay: 5000,
         disableOnInteraction: false,
     },
     navigation: {
