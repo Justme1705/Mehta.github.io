@@ -305,11 +305,10 @@ body.dark-theme {
 }
 
 .home__title{
-  text-align: center;
+  text-align:center;
   font-size: var(--biggest-font-size);
   letter-spacing: .3px;
   margin-bottom: .5rem;
-  white-space: nowrap;
 }
 
 .home__blob{
@@ -1193,7 +1192,7 @@ body.dark-theme {
     margin-top: 10rem;
   }
   .home__info-description{
-    padding-right: 0;
+    padding-right: 10;
   }
 
   .skills__container,
@@ -1312,7 +1311,7 @@ body.dark-theme {
     padding-bottom: 6rem;
   }
   .section__subtitle{
-    margin-bottom: .5rem;
+    margin-bottom: 5rem;
   }
 
   .home__title{
@@ -1351,7 +1350,7 @@ body.dark-theme {
     font-size: 1.5rem;
   }
   .home__info{
-    grid-template-rows: repeat(3, 130px);
+    grid-template-rows: repeat(3, max-content);
     row-gap: 4rem;
     margin-top: 16rem;
   }
@@ -1399,7 +1398,6 @@ body.dark-theme {
     border-radius: 7.6rem;
     padding: 3.5rem 1.5rem;
     margin-top: 2rem;
-
   }
   .articles__card i{
     font-size: 2.5rem;
